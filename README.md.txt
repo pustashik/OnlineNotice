@@ -1,0 +1,3 @@
+The main aim of this online notice board is make information dissemination much easier in a paperless community as the world tends to interact with the online notice
+board facility, Online notice board admin can send the notification to the  particular students,teacher,staff regarding fee payments, results, any new activity happen in university 
+campus or university fest participation, libraries dues, hostel room payments, any workshop registrations,warnings and reminders etc for this work online notice board project is make all work much easier and understandable to all.
